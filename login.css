@@ -1,0 +1,17 @@
+.ul .form{
+    color: black;
+    align-items: center;
+}
+.table{
+    color: black;
+    align-items: center;
+}
+.span{
+    color: black;
+    align-items: center;
+}
+.center{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
